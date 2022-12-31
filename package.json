@@ -11,7 +11,7 @@
     "react-redux": "^5.0.6",
     "react-router": "^4.1.1",
     "react-router-dom": "^4.1.1",
-    "react-scripts": "1.0.17",
+    "react-scripts": "5.0.1",
     "redux": "^3.7.1",
     "redux-devtools-extension": "^2.13.2",
     "redux-testkit": "^1.0.6",
